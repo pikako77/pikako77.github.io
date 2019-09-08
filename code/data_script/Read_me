@@ -1,9 +1,0 @@
-Script to output data from cities.cvs in html format
-
-1. Set the cities.csv file (line 5)
-	city_csv = os.path.join('..','Resources', 'cities.csv')
-	
-2. on terminal, run the python script
-    python read_csv.py > cities_html.txt
-	
-3. Copy and paste the formatted data in data.html
